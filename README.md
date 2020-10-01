@@ -1,4 +1,4 @@
-# CindyJS web site
+# CindyJS Amazing web site
 
 This repository contains the sources from which
 [the CindyJS web site](http://cindyjs.org/) is built.
